@@ -7,8 +7,8 @@ draft: false
 ---
 
 ## Overview
-
-<img src="/images/x-mon+on+fridge.jpg" style="float: right; padding: 20px; border-radius: 25px;" width="270">
+{{< image src="./images/x-mon+on+fridge.jpg" style="float: left;" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q10" class="img-fluid" title="image title"  webp="false" >}}
+<!-- <img src="./images/x-mon+on+fridge.jpg" style="float: right; padding: 20px; border-radius: 25px;" width="270"> -->
 
 
 We are broadly interested in any quantum materials and devices in both equilibrium and nonequilibrium states. 
