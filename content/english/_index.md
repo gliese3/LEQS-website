@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Jin Lab of Emergent Quantum Systems"
+  title: "Emergent Quantum Systems Lab"
   content: "Welcome to the Emergent Quantum Systems Lab (EQSL) at the University of Notre Dame! <br /><br />
 
 Our lab explores topics at the intersection of condensed matter physics and quantum information science. We combine nanoscale quantum electronic and photonic devices with macroscopic quantum liquids and solids to reveal exotic quantum phenomena and create transformative quantum technologies. Our research could lead to ideal platforms for quantum computing, networking, and sensing that will fundamentally change the way we think and live."
