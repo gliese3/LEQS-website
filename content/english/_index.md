@@ -36,9 +36,9 @@ features:
     #   - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
     #   - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: true
+      label: "More"
+      link: "#"
 
 #   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
 #     image: "/images/service-3.png"
