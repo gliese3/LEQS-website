@@ -24,8 +24,8 @@ features:
     #   - "SEO-optimized for better search engine rankings"
     #   - "**Open-source and free** for personal and commercial use"
     button:
-      enable: false
-      label: "Get Started Now"
+      enable: true
+      label: "More"
       link: "#"
 
   - title: "Hybrid Quantum Systems"
