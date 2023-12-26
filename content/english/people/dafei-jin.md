@@ -3,7 +3,7 @@ title: Dafei Jin
 email: williamjacob@email.com
 image: "/images/Jin-Dafei-32549D12-Edit_web.jpg"
 description: this is meta description
-position: principal investigator
+position: group leader
 social:
   - name: github
     icon: fa-brands fa-github
