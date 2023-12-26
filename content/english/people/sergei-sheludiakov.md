@@ -3,7 +3,7 @@ title: Sergei Sheludiakov
 email: ses276@uchicago.edu
 image: "/images/Photo_Sheludiakov-1024x1024.jpg"
 description: this is meta description
-position: research staff
+position: lab manager
 social:
   - name: github
     icon: fa-brands fa-github

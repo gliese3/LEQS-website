@@ -5,39 +5,37 @@
     <br>
     <div class="container">
       <div class="row">
-        <h1> Principal Investigator </h1>
-        <hr>
-        <br>
         {{ range .RegularPages }}
           {{ $position := .Params.position}}
           {{ if eq $position "principal investigator"}}    
             <div class="md:col-6 lg:col-4 mb-14">
+              <h2> Principal Investigator </h2>
+              <hr>
+              <br>
               {{ partial "components/person-card" . }}
             </div>
           {{ end }}
         {{ end }}
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="row">
-        <h1> Research Staff </h1>
-        <hr>
-        <br>
         {{ range .RegularPages }}
           {{ $position := .Params.position}}
-          {{ if eq $position "research staff"}}    
+          {{ if eq $position "lab manager"}}    
             <div class="md:col-6 lg:col-4 mb-14">
+              <h2> Lab Manager </h2>
+              <hr>
+              <br>
               {{ partial "components/person-card" . }}
             </div>
           {{ end }}
         {{ end }}
+
       </div>
     </div>
 
+
     <div class="container">
       <div class="row">
-        <h1> Postdocs </h1>
+        <h2> Postdocs </h2>
         <hr>
         <br>
         {{ range .RegularPages }}
@@ -53,7 +51,7 @@
 
     <div class="container">
       <div class="row">
-        <h1> Graduate Students </h1>
+        <h2> Graduate Students </h2>
         <hr>
         <br>
         {{ range .RegularPages }}
