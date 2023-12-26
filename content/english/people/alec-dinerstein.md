@@ -1,9 +1,9 @@
 ---
-title: John Doe
-email: johndoe@email.com
-image: "/images/avatar.png"
+title: Alec Dinerstein
+email: adinerst@nd.edu
+image: "/images/Dinerstein_headshot-768x768.jpg"
 description: this is meta description
-position: student
+position: graduate student
 social:
   - name: github
     icon: fa-brands fa-github

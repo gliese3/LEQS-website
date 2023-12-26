@@ -1,8 +1,9 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
-image: "/images/avatar.png"
+title: Evgenii Zaitsev
+email: ezaitsev@nd.edu
+image: "/images/IMG_20200220_094119.jpg"
 description: this is meta description
+position: graduate student
 social:
   - name: github
     icon: fa-brands fa-github

@@ -3,7 +3,7 @@ title: Dafei Jin
 email: williamjacob@email.com
 image: "/images/Jin-Dafei-32549D12-Edit_web.jpg"
 description: this is meta description
-position: head
+position: principal investigator
 social:
   - name: github
     icon: fa-brands fa-github
@@ -21,6 +21,18 @@ Associate Professor of Physics
 University of Notre Dame
 Quantum Scientist
 Argonne National Laboratory 
+
+Associate Professor of Physics
+University of Notre Dame
+Quantum Scientist
+Argonne National Laboratory 
+
+Associate Professor of Physics
+University of Notre Dame
+Quantum Scientist
+Argonne National Laboratory 
+
+
 
 **Email: dfjin@nd.edu**
  

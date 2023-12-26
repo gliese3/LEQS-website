@@ -1,16 +1,70 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
-
-  <section class="section">
+    <br>
+    <br>
     <div class="container">
       <div class="row">
+        <h1> Principal Investigator </h1>
+        <hr>
+        <br>
         {{ range .RegularPages }}
-          <div class="md:col-6 lg:col-4 mb-14">
-            {{ partial "components/person-card" . }}
-          </div>
+          {{ $position := .Params.position}}
+          {{ if eq $position "principal investigator"}}    
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/person-card" . }}
+            </div>
+          {{ end }}
         {{ end }}
       </div>
     </div>
-  </section>
+
+    <div class="container">
+      <div class="row">
+        <h1> Research Staff </h1>
+        <hr>
+        <br>
+        {{ range .RegularPages }}
+          {{ $position := .Params.position}}
+          {{ if eq $position "research staff"}}    
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/person-card" . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <h1> Postdocs </h1>
+        <hr>
+        <br>
+        {{ range .RegularPages }}
+          {{ $position := .Params.position}}
+          {{ if eq $position "postdoc"}}    
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/person-card" . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <h1> Graduate Students </h1>
+        <hr>
+        <br>
+        {{ range .RegularPages }}
+          {{ $position := .Params.position}}
+          {{ if eq $position "graduate student"}}    
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/person-card" . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
 {{ end }}
