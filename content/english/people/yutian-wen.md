@@ -1,9 +1,9 @@
 ---
-title: John Doe
-email: johndoe@email.com
-image: "/images/avatar.png"
+title: Yutian Wen
+email: some@email.nd
+image: 
 description: this is meta description
-position: student
+position: postdoc
 social:
   - name: github
     icon: fa-brands fa-github

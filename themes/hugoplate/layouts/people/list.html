@@ -65,4 +65,21 @@
       </div>
     </div>
 
+
+    <div class="container">
+      <div class="row">
+        <h2> Alumni </h2>
+        <hr>
+        <br>
+        {{ range .RegularPages }}
+          {{ $position := .Params.position}}
+          {{ if eq $position "alumni"}}    
+            <div class="md:col-6 lg:col-4 mb-14">
+              {{ partial "components/person-card" . }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
 {{ end }}

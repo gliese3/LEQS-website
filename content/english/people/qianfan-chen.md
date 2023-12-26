@@ -3,7 +3,7 @@ title: Qianfan Chen
 email: qianfan.chen@anl.gov
 image: "/images/Image2-768x721.jpeg"
 description: this is meta description
-position: postdoc
+position: alumni
 social:
   - name: github
     icon: fa-brands fa-github

@@ -3,7 +3,7 @@ title: Yizhong Huang
 email: yzhhuang@uchicago.edu
 image: "/images/YizhongHuang2-1-768x704.jpeg"
 description: this is meta description
-position: postdoc
+position: alumni
 social:
   - name: github
     icon: fa-brands fa-github
