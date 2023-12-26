@@ -18,22 +18,12 @@
   font-size: 20px;
 }
 
-.navbar-nav:hover > a{
-  background-color:#123456;
-  color: white;
-}
-
-.nav-link:hover > a{
-  background-color:#123456;
-  color: white;
-}
-
-.current-menu-item > a{
-  background-color:#123456;
-  color: white;
-  }
-
+// highlight selected menu item
 .nav-link.active {
-  text-decoration: underline;
   color:#c20f62;
+}
+
+// menu item on hover
+.nav-link:hover {
+  color:#e8930a;
 }
