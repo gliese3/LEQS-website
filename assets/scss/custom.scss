@@ -16,8 +16,7 @@
 // increase menu font
 .navbar-nav {
   font-size: 20px;
-  background-color: #fcfafa;
-  border-radius: 15px;
+
 }
 
 // highlight selected menu item
@@ -28,4 +27,9 @@
 // menu item on hover
 .nav-link:hover {
   color:#e8930a;
+}
+
+.nav-style{
+  background-color: #f6f6f6;
+  border-radius: 20px;
 }
