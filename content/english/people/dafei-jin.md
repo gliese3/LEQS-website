@@ -17,8 +17,8 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
-Associate Professor of Physics
-University of Notre Dame
-Affiliate Scientist
-Argonne National Laboratory
+Associate Professor of Physics <br />
+University of Notre Dame <br />
+Affiliate Scientist <br />
+Argonne National Laboratory <br />
  

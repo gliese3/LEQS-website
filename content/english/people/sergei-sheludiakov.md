@@ -18,6 +18,6 @@ social:
     link: https://linkedin.com
 ---
 
-Assistant Research Professor of Physics
-University of Notre Dame
+Assistant Research Professor of Physics <br />
+University of Notre Dame <br />
  
