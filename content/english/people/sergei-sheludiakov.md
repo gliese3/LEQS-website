@@ -1,7 +1,7 @@
 ---
 title: Sergei Sheludiakov
 email: ses276@uchicago.edu
-image: "/images/Photo_Sheludiakov-1024x1024.jpg"
+image: "/images/bj_9.18.23_sergei_sheludiakov_cropped1.jpg"
 description: this is meta description
 position: lab manager
 social:
