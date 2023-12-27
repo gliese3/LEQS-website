@@ -18,10 +18,6 @@ social:
     link: https://linkedin.com
 ---
 
-Sergei Sheludiakov
-Assistant Research Professor
+Assistant Research Professor of Physics
 University of Notre Dame
-
-
-**Email: ses276@uchicago.edu**
  
