@@ -4,7 +4,7 @@ banner:
   title: "Emergent Quantum Systems Lab"
   subtitle: "Welcome to the Emergent Quantum Systems Lab (EQSL) at the University of Notre Dame!"
   content: 
-    "We perform frontier research at the intersection of quantum matter and quantum information. We incorporate quantum liquid and solid materials with quantum electronic and photonic devices to reveal exotic quantum phenomena and create transformative quantum technologies. Our research could lead to ideal platforms for quantum computing, networking, and sensing that will fundamentally change the way we think and live."
+    "We perform frontier research at the intersection of quantum matter and quantum information. We incorporate quantum liquid and solid materials with quantum electronic and photonic devices to reveal exotic phenomena and create transformative technologies. Our research could lead to ideal platforms for quantum computing, networking, and sensing that will fundamentally change the way we think and live."
   image: "/images/image.png"
   # button:
   #   enable: true
