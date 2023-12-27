@@ -11,12 +11,12 @@ logo_height = "12px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "LEQS"
+logo_text = "EQSL"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
 theme_switcher = false
-theme_default = "system" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by LEQS team."
+copyright = "Designed & Developed by EQSL team."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -36,17 +36,17 @@ enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
-# [navigation_button]
-# enable = true
-# label = "get a quote"
-# link = "contact"
+[navigation_button]
+enable = false
+label = "get a quote"
+link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#121212"
-include_sections = ["blog"]
+primary_color = "#968040"
+include_sections = ["News"]
 show_image = true
 show_description = true
 show_tags = true
@@ -56,9 +56,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["EQSL", "Quantum information", "Quantum computing"]
+description = "Emergent Quantum Systems Lab"
+author = "EQSL team"
 image = "images/og-image.png"
 
 
