@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Overview
-{{< image src="./images/x-mon+on+fridge.jpg" style="float: left;" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q10" class="img-fluid" title="image title"  webp="false" >}}
+<!-- {{< image src="./images/x-mon+on+fridge.jpg" style="float: left;" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q10" class="img-fluid" title="image title"  webp="false" >}} -->
 <!-- <img src="./images/x-mon+on+fridge.jpg" style="float: right; padding: 20px; border-radius: 25px;" width="270"> -->
 
 
