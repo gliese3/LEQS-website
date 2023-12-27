@@ -131,8 +131,13 @@
       {{ end }}
     </div>
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
-      <img align="right" src="./images/notre-dame-logo.png" alt="" width="100px">
-      <!-- "{{ .RelPermalink }}images/notre-dame-logo.png" -->
+      <!-- <img align="right" src="images/notre-dame-logo.png" alt="" width="100px">
+      "{{ .RelPermalink }}images/notre-dame-logo.png" -->
+      
+      {{ $asset := resources.Get "images/notre-dame-logo.png" }}
+      <figure style="width:200px;">
+        <img alt="Yellow Duck" src="{{ $asset.RelPermalink }}" />
+      </figure>
     </div>
   </nav>
 </header>
