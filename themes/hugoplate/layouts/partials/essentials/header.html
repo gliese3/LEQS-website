@@ -105,13 +105,14 @@
       {{ end }}
     </ul>
 
-
+    <!-- Notre Dame logo -->
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">      
       {{ $asset := resources.Get "images/notre-dame-logo.png" }}
-      <figure style="width:250px;">
+      <figure style="width:200px;">
         <img alt="Yellow Duck" src="{{ $asset.RelPermalink }}" />
       </figure>
     </div>
+
 
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
       {{ with site.Params.search }}
