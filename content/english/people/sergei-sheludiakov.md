@@ -1,7 +1,7 @@
 ---
 title: Sergei Sheludiakov
 email: ses276@uchicago.edu
-image: "/images/bj_9.18.23_sergei_sheludiakov.jpg"
+image: "/images/Photo_Sheludiakov-1024x1024.jpg"
 description: this is meta description
 position: lab manager
 social:
@@ -18,6 +18,8 @@ social:
     link: https://linkedin.com
 ---
 
+<br />
+<br />
 Assistant Research Professor of Physics <br />
-University of Notre Dame <br />
+University of Notre Dame
  

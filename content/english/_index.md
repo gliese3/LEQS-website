@@ -53,5 +53,3 @@ features:
 #       label: ""
 #       link: ""
 ---
-
-Text
