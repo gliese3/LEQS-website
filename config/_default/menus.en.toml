@@ -7,34 +7,43 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Research"
-url = "research/"
 weight = 2
-
-[[main]]
-weight = 3
 name = "People"
 url = "people/"
 
 [[main]]
-weight = 5
-name = "News"
-url = "news/"
+name = "Research"
+url = "research/"
+weight = 3
 
 [[main]]
 name = "Publications"
 url = "publications/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Facilities"
+url = "facilities/"
+
+[[main]]
 weight = 6
+name = "News"
+url = "news/"
 
-[[main]]
-name = "About"
-url = "about/"
-weight = 7
 
-[[main]]
-name = "Elements"
-url = "elements/"
-weight = 8
+
+
+
+# [[main]]
+# name = "About"
+# url = "about/"
+# weight = 7
+
+# [[main]]
+# name = "Elements"
+# url = "elements/"
+# weight = 8
 
 
 
