@@ -17,9 +17,8 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
-
-<br />
-<br />
 Assistant Research Professor of Physics <br />
-University of Notre Dame
+University of Notre Dame <br />
+<br />
+<br />
  
