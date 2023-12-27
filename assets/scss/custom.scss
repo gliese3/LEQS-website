@@ -40,3 +40,15 @@
 .text-xl:hover{
   color:#f8f8ba;
 }
+
+// custom spacing for main page banner (was 6rem)
+.section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+// custom spacing for main page features (was 4rem)
+.section-sm {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
