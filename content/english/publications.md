@@ -13,16 +13,16 @@ draft: false
 
 ##### 2023
 
-| Papers        |      Link      |  
-| ------------- | -----------: | 
-| paper 1    | link 1 | 
-| paper 2      |   link 2    |  
-| paper 3 |   link 2   |  
+| Papers        |      Journal      |  Link |
+| ------------- | :-----------:     | ----: |
+| paper 1       | journal 1         | link1 |
+| paper 2       | journal 2        |   link2 |
+| paper 3        |   journal 3        |    link3 | 
 
 ##### 2022
 
-| Papers        |      Link      |  
-| ------------- | -----------: | 
-| paper 1    | link 1 | 
-| paper 2      |   link 2    |  
-| paper 3 |   link 2   |  
+| Papers        |      Journal      |  Link |
+| ------------- | :-----------:     | ----: |
+| paper 1       | journal 1         | link1 |
+| paper 2       | journal 2        |   link2 |
+| paper 3        |   journal 3        |    link3 |  
