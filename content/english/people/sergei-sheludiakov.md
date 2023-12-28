@@ -10,18 +10,8 @@ summary:
   University of Notre Dame <br />
   <br />
   <br />"
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+contacts:
+  "**Email**: [ses276@uchicago.edu](mailto:ses276@uchicago.edu)"
 ---
 Some content.
  

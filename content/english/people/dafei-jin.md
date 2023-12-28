@@ -1,6 +1,5 @@
 ---
 title: Dafei Jin
-email: dfjin@nd.edu
 image: "/images/Jin-Dafei-32549D12-Edit_web.jpg"
 description: "this is meta description"
 position: group leader
