@@ -4,6 +4,7 @@ email: qianfan.chen@anl.gov
 image: "/images/Image2-768x721.jpeg"
 description: this is meta description
 position: alumni
+order: 1
 social:
   - name: github
     icon: fa-brands fa-github

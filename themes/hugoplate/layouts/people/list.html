@@ -1,82 +1,69 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
-
     <br>
     <div class="container">
       <div class="row">
-        {{ range .RegularPages }}
-          {{ $position := .Params.position}}
-          {{ if eq $position "group leader"}}    
-            <div class="md:col-6 lg:col-4 mb-14">
-              <h3> Group Leader </h3>
-              <hr>
-              <br>
-              {{ partial "components/person-card" . }}
-            </div>
-          {{ end }}
+        <!-- Group Leader -->
+        {{ range (where .Site.RegularPages "Params.position" "eq" "group leader").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            <h3> Group Leader </h3>
+            <hr>
+            <br>
+            {{ partial "components/person-card" . }}
+          </div>
         {{ end }}
 
-        {{ range .RegularPages }}
-          {{ $position := .Params.position}}
-          {{ if eq $position "lab manager"}}    
-            <div class="md:col-6 lg:col-4 mb-14">
-              <h3> Lab Manager </h3>
-              <hr>
-              <br>
-              {{ partial "components/person-card" . }}
-            </div>
-          {{ end }}
+        <!-- Lab Manager -->
+        {{ range (where .Site.RegularPages "Params.position" "eq" "lab manager").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            <h3> Lab Manager </h3>
+            <hr>
+            <br>
+            {{ partial "components/person-card" . }}
+          </div>
         {{ end }}
 
       </div>
     </div>
 
-
+    <!-- Postdoc Reseachers -->
     <div class="container">
       <div class="row">
         <h3> Postdoc Researchers </h3>
         <hr>
         <br>
-        {{ range .RegularPages }}
-          {{ $position := .Params.position}}
-          {{ if eq $position "postdoc"}}    
-            <div class="md:col-6 lg:col-4 mb-14">
-              {{ partial "components/person-card" . }}
-            </div>
-          {{ end }}
+        {{ range (where .Site.RegularPages "Params.position" "eq" "postdoc").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/person-card" . }}
+          </div>
         {{ end }}
       </div>
     </div>
 
+    <!-- Graduate Students -->
     <div class="container">
       <div class="row">
         <h3> Graduate Students </h3>
         <hr>
         <br>
-        {{ range .RegularPages }}
-          {{ $position := .Params.position}}
-          {{ if eq $position "graduate student"}}    
-            <div class="md:col-6 lg:col-4 mb-14">
-              {{ partial "components/person-card" . }}
-            </div>
-          {{ end }}
+        {{ range (where .Site.RegularPages "Params.position" "eq" "graduate student").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/person-card" . }}
+          </div>
         {{ end }}
       </div>
     </div>
 
-
+    <!-- Alumni -->
     <div class="container">
       <div class="row">
         <h3 style="color:rgb(87, 87, 87)"> Alumni </h3>
         <hr>
         <br>
-        {{ range .RegularPages }}
-          {{ $position := .Params.position}}
-          {{ if eq $position "alumni"}}    
-            <div class="md:col-6 lg:col-4 mb-14">
-              {{ partial "components/person-card" . }}
-            </div>
-          {{ end }}
+        {{ range (where .Site.RegularPages "Params.position" "eq" "alumni").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/person-card" . }}
+          </div>
         {{ end }}
       </div>
     </div>

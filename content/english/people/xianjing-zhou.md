@@ -1,9 +1,9 @@
 ---
-title: Yutian Wen
-email: some@email.nd
-image: 
+title: Xianjing Zhou
+email: yzhhuang@uchicago.edu
+image: "/images/IMG_4776.jpg"
 description: this is meta description
-position: postdoc
+position: alumni
 order: 3
 social:
   - name: github
@@ -20,3 +20,4 @@ social:
 ---
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+ 

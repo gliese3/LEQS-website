@@ -4,6 +4,7 @@ email: ses276@uchicago.edu
 image: "/images/bj_9.18.23_sergei_sheludiakov_cropped1.jpg"
 description: this is meta description
 position: lab manager
+order: 1
 social:
   - name: github
     icon: fa-brands fa-github

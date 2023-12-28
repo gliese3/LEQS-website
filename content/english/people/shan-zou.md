@@ -4,6 +4,7 @@ email: samwilson@email.com
 image: "/images/Shan Zou.jpeg"
 description: this is meta description
 position: postdoc
+order: 2
 social:
   - name: github
     icon: fa-brands fa-github

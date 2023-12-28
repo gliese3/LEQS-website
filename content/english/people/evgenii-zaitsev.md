@@ -4,6 +4,7 @@ email: ezaitsev@nd.edu
 image: "/images/IMG_20200220_094119.jpg"
 description: this is meta description
 position: graduate student
+order: 2
 social:
   - name: github
     icon: fa-brands fa-github

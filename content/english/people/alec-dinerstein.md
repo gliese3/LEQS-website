@@ -4,6 +4,7 @@ email: adinerst@nd.edu
 image: "/images/Dinerstein_headshot-768x768.jpg"
 description: this is meta description
 position: graduate student
+order: 1
 social:
   - name: github
     icon: fa-brands fa-github

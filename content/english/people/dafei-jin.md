@@ -4,6 +4,7 @@ email: dfjin@nd.edu
 image: "/images/Jin-Dafei-32549D12-Edit_web.jpg"
 description: this is meta description
 position: group leader
+order: 2
 social:
   - name: github
     icon: fa-brands fa-github

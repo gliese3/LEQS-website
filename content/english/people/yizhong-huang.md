@@ -4,6 +4,7 @@ email: yzhhuang@uchicago.edu
 image: "/images/YizhongHuang2-1-768x704.jpeg"
 description: this is meta description
 position: alumni
+order: 2
 social:
   - name: github
     icon: fa-brands fa-github
