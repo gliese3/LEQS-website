@@ -5,6 +5,8 @@ image: "/images/thumbnail_Photo.jpg"
 description: this is meta description
 position: postdoc
 order: 1
+summary:
+  "Some information"
 social:
   - name: github
     icon: fa-brands fa-github
@@ -18,5 +20,5 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com
 ---
+Some content.
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
