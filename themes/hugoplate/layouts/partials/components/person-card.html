@@ -15,7 +15,7 @@
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
   <p class="mb-1">
-    {{ .Content}} <!--or .Content for full description-->
+    {{ .Params.summary | markdownify }} <!--or .Content for full description-->
   </p>
   <ul class="social-icons">
     {{ range .Params.social }}
