@@ -40,7 +40,7 @@ features:
       label: "More"
       link: "#"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Quantum Networking"
     image: "/images/x-mon+on+fridge.jpg"
     content: "We come up with new ways to think about superconducting quantum circuits. We are studying ways to make quantum memories, perform error correction, and topologically protected qubits."
     # bulletpoints:
