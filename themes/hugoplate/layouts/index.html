@@ -26,7 +26,7 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "banner-image" ) }}
           </div>
         </div>
       </div>
@@ -40,36 +40,30 @@
       {{ range $i, $e:= .Params.features }}
 
         <div class="md:col-6 lg:col-4 mb-14">
-          <h3> {{.title}} </h3>
-          <hr>
-          <br>
-              <div
-              class="bg-theme-light dark:bg-darkmode-theme-light rounded p-4 text-center">
-              {{ $image:= .image }}
-              {{ if $image }}
-                {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-10 person_img_center person_img") }}
-              {{ else if .Params.Email }}
-                <img
-                  class="mx-auto mb-6 rounded"
-                  alt="{{ .Title }}"
-                  height="120"
-                  width="120"
-                  src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
-              {{ end }}
-              <h4 class="mb-3">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h4>
-              <p class="mb-1">
-                {{ .content | markdownify }}
-              </p>
-              {{ with .button }}
-                {{ if .enable }}
-                  <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
-                    {{ .label }}
-                    <i class="fa fa-arrow-right pl-2"></i>
-                  </a>
+          <h3 class="text-center"> {{.title}} </h3>
+              <div class="bg-theme-light dark:bg-darkmode-theme-light box-feature text-center">
+                {{ $image:= .image }}
+
+                {{ if $image }}
+                  {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-10 image-feature") }}
                 {{ end }}
-              {{ end }}
+
+                <h4 class="mb-3">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h4>
+
+                <p class="mb-1 p-4">
+                  {{ .content | markdownify }}
+                </p>
+
+                {{ with .button }}
+                  {{ if .enable }}
+                    <a class="btn btn-primary mt-4 mb-4" href="{{ .link | absURL }}">
+                      {{ .label }}
+                      <i class="fa fa-arrow-right pl-2"></i>
+                    </a>
+                  {{ end }}
+                {{ end }}
             </div>
         </div>
 

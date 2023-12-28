@@ -52,3 +52,22 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
+// image on main page in features
+.image-feature {
+  width: 100%;
+  border-radius: 15px 15px 0px 0px;
+}
+
+// style for feature card
+.box-feature {
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+// style for banner image
+.banner-image{
+  width: 100%;
+}
+
+
