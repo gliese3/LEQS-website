@@ -15,16 +15,10 @@
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
   <p class="mb-1">
-    {{ .Params.summary | markdownify }} <!--or .Content for full description-->
+    {{ .Params.summary | markdownify }}
   </p>
-  <ul class="social-icons">
-    {{ range .Params.social }}
-      <li>
-        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
-          <span class="sr-only">{{ .title }}</span>
-          <i class="{{ .icon }}"></i>
-        </a>
-      </li>
-    {{ end }}
-  </ul>
+  <br>
+  <p class="mb-1 text-left">
+    {{ .Params.contacts | markdownify }} 
+  </p>
 </div>

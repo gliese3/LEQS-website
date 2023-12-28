@@ -10,18 +10,9 @@ summary:
   University of Notre Dame <br />
   Affiliate Scientist <br />
   Argonne National Laboratory <br />"
-social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+contacts:
+  "**Email**: dfjin@nd.edu <br />
+  **Office**: 439 Nieuwland Science Hall"
 ---
 Content information.
  
