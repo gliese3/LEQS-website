@@ -1,7 +1,7 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-7">
+    <section class="banner-section pt-7">
       <div class="container">
         <div class="row justify-center">
           <div class="text-center">  <!-- lg:col-7 was here -->
@@ -13,7 +13,7 @@
               {{ .subtitle | markdownify }}
             </h5>
 
-            <p class="mb-8 text-left "> <!-- Change Banner style here! Was text-lg also.-->
+            <p class="mb-4 text-left "> <!-- Change Banner style here! Was text-lg also.-->
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
