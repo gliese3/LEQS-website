@@ -1,8 +1,7 @@
-<div
-  class="bg-theme-light dark:bg-darkmode-theme-light rounded p-4 text-center">
+<div class="bg-theme-light dark:bg-darkmode-theme-light text-center person-card">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-10 person_img_center person_img") }}
+    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-10 person-img-center person-img") }}
   {{ else if .Params.Email }}
     <img
       class="mx-auto mb-6 rounded"
@@ -11,15 +10,20 @@
       width="120"
       src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }}
+
   <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
+
   <p class="mb-1">
     {{ .Params.summary | markdownify }}
   </p>
-  <br>
-  <hr>
-  <p class="mb-1">
-    {{ .Params.contacts | markdownify }} 
-  </p>
+
+
+  <div class="person-contacts text-left">
+    <p class="m-3">
+      {{ .Params.contacts | markdownify }} 
+    </p>
+  </div>
+
 </div>
