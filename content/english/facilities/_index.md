@@ -22,4 +22,3 @@ We are broadly interested in any quantum materials and devices in both equilibri
 * Quantum Materials: we are particularly interested in strongly correlated quantum liquid and solid systems, such as superfluid helium 3 and helium 4, solid hydrogen and neon, high temperature superconductors, topological superconductors, fractional quantum Hall liquids, and quantum spin liquids.
 
 * Quantum Devices: we are particularly interested in highly integrated quantum electronic and photonic systems, such as single-electron-based quantum processors, single-ion-based quantum transducers, and single-photon-based quantum sensors.
-
