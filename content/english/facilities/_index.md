@@ -15,7 +15,8 @@ features:
 --- 
 ## Overview
 
-{{< image src="./images/dj_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q10" class="img-fluid" title="image title"  webp="false" >}}
+<img src="qc1.jpg" width="50%" style="float: right; padding: 10px;">
+
 <br />
 We are broadly interested in any quantum materials and devices in both equilibrium and nonequilibrium states. 
 
