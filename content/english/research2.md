@@ -10,6 +10,10 @@ draft: false
 <!-- {{< image src="./images/x-mon+on+fridge.jpg" style="float: left;" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q10" class="img-fluid" title="image title"  webp="false" >}} -->
 <!-- <img src="./images/x-mon+on+fridge.jpg" style="float: right; padding: 20px; border-radius: 25px;" width="270"> -->
 
+{{ $asset := resources.Get "images/x-mon+on+fridge.jpg" }}
+<figure style="width:210px;">
+    <img alt="Notre Dame" src="{{ $asset.RelPermalink }}" />
+</figure>
 
 We are broadly interested in any quantum materials and devices in both equilibrium and nonequilibrium states. 
 
