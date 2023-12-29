@@ -5,9 +5,7 @@ description: "this is meta description"
 # image: "/images/avatar.png"
 draft: false
 --- 
-## Publications
-
-#### 2023
+### 2023
 
 1. Zhou, X., Li, X., Chen, Q. et al. *Electron charge qubit with 0.1 millisecond coherence time.* | [**Nat. Phys. (2023)**](https://www.nature.com/articles/s41567-023-02247-5#:~:text=In%20this%20paper%2C%20we%20report,bonds%20with%20any%20other%20element.).
 2. Liu, C., Zhou, X., Hong, D. et al. *Tunable superconductivity and its origin at KTaO<sub>3</sub> interfaces.* | [**Nat Commun 14, 951 (2023)**](https://www.nature.com/articles/s41467-023-36309-2)
