@@ -1,6 +1,6 @@
 ---
 title: Alec Dinerstein
-image: "/images/Dinerstein_headshot-768x768.jpg"
+image: "/images/dinerstein_alec.jpg"
 description: this is meta description
 position: graduate student
 order: 1

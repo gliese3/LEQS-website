@@ -1,6 +1,6 @@
 ---
 title: Shan Zou
-image: "/images/Shan Zou.jpeg"
+image: "/images/ShanZou.jpg"
 description: this is meta description
 position: postdoc
 order: 2

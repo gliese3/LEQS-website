@@ -1,7 +1,6 @@
 ---
 title: Yutian Wen
-email: some@email.nd
-image: 
+image: "images/YWen.jpg"
 description: this is meta description
 position: postdoc
 order: 3
