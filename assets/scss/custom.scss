@@ -28,8 +28,8 @@
 // style for contact information on person card
 .person-contacts{
   // font-family: "Arial";
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
   font-size: 1rem;
   color:#ebedee;
   padding: 0.5rem;;
@@ -37,7 +37,7 @@
 }
 
 .person-contacts:hover{
-  font-size: 1.05rem;
+  transform: scale(1.05);
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
@@ -119,6 +119,7 @@
 
 // button style
 .button{
+  transition: 0.4s;
   background-color: #0c2340;
   border-color: #0c2340;
   
