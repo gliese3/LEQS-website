@@ -11,7 +11,7 @@ summary:
   <br />
   <br />"
 contacts:
-  "**Email**: [ses276@uchicago.edu](mailto:ses276@uchicago.edu)
+  "**Email**&emsp;&emsp;[ses276@uchicago.edu](mailto:ses276@uchicago.edu)
   <br />
   <br />"
 ---

@@ -8,7 +8,7 @@ order: 1
 summary:
   "Some information"
 contacts:
-  "**Email**: [xinhao.li@anl.gov](mailto:xinhao.li@anl.gov)"
+  "**Email**&emsp;&emsp;[xinhao.li@anl.gov](mailto:xinhao.li@anl.gov)"
 ---
 Some content.
 

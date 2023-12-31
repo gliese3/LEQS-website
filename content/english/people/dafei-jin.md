@@ -10,8 +10,8 @@ summary:
   Affiliate Scientist <br />
   Argonne National Laboratory <br />"
 contacts:
-  "**Email**: [dfjin@nd.edu](mailto:dfjin@nd.edu) <br />
-  **Office**: 439 Nieuwland Science Hall"
+  "**Email**&emsp;&emsp;[dfjin@nd.edu](mailto:dfjin@nd.edu) <br />
+  **Office**&emsp;&nbsp;&nbsp;&nbsp;Nieuwland Science Hall"
 ---
 Content information.
  

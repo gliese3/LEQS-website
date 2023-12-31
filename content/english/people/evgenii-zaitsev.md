@@ -7,7 +7,7 @@ order: 2
 summary:
   "Some information"
 contacts:
-  "**Email**: [ezaitsev@nd.edu](mailto:ezaitsev@nd.edu)"
+  "**Email**&emsp;&emsp;[ezaitsev@nd.edu](mailto:ezaitsev@nd.edu)"
 ---
 
 Some content.
