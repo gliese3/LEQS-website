@@ -3,9 +3,11 @@
 Website prototype.
 
 # Commands
-```
+```bash
 hugo server -D
 ```
 
 
-```git add . && git commit -m 'made some changes' -a && git push```
+```bash
+git add . && git commit -m 'made some changes' -a && git push
+```
