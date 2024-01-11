@@ -54,6 +54,21 @@
       </div>
     </div>
 
+
+    <!-- Undergraduate Students -->
+    <div class="container">
+      <div class="row">
+        <h3> Undergraduate Students </h3>
+        <hr>
+        <br>
+        {{ range (where .Site.RegularPages "Params.position" "eq" "undergraduate student").ByParam "order" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/person-card" . }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+
     <!-- Alumni -->
     <div class="container">
       <div class="row">

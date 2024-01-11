@@ -6,14 +6,15 @@ description: this is meta description
 position: lab manager
 order: 1
 summary:
-  "Assistant Research Professor of Physics <br />
-  University of Notre Dame <br />
-  <br />
-  <br />"
+  "Assistant Research Professor of Physics <br>
+  University of Notre Dame <br>
+  <br>
+  <br>"
 contacts:
-  "**Email**&emsp;&emsp;[ses276@uchicago.edu](mailto:ses276@uchicago.edu)
-  <br />
-  <br />"
+  "**Email**&emsp;&emsp;[ses276@uchicago.edu](mailto:ses276@uchicago.edu)<br>
+   **Office**&emsp;&nbsp;&nbsp;&nbsp;441 Nieuwland Science Hall
+  
+  <br>"
 ---
 Some content.
  

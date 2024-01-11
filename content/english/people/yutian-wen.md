@@ -7,7 +7,8 @@ order: 3
 summary:
   "Some information"
 contacts:
-  "**Email**&emsp;&emsp;[samwilson@email.com](mailto:samwilson@email.com)"
+  "**Email**&emsp;&emsp;[ywen2@nd.edu](mailto:ywen2@nd.edu)<br>
+   **Office**&emsp;&nbsp;&nbsp;&nbsp;441 Nieuwland Science Hall"
 ---
 
 Some content.
