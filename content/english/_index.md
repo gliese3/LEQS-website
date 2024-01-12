@@ -14,7 +14,7 @@ banner:
 # Features
 features:
   - title: "Quantum Computing"
-    image: "/images/Quantum-computing-featured-image.jpg"
+    image: "/images/quantum_computing_by_yandex.jpeg"
     content: "We come up with new ways to think about superconducting quantum circuits. We are studying ways to make quantum memories, perform error correction, and topologically protected qubits."
     # bulletpoints:
     #   - "10+ Pre-build pages"
@@ -29,7 +29,7 @@ features:
       link: "#"
 
   - title: "Quantum Sensing"
-    image: "/images/QuantumSensing_fig2.jpg"
+    image: "/images/quantum_sensing_by_yandex.jpeg"
     content: "We come up with new ways to think about superconducting quantum circuits. We are studying ways to make quantum memories, perform error correction, and topologically protected qubits."
     # bulletpoints:
     #   - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
@@ -41,7 +41,7 @@ features:
       link: "#"
 
   - title: "Quantum Networking"
-    image: "/images/0x0.webp"
+    image: "/images/quantum_grid_by_yandex.jpeg"
     content: "We come up with new ways to think about superconducting quantum circuits. We are studying ways to make quantum memories, perform error correction, and topologically protected qubits."
     # bulletpoints:
     #   - "Instantly load static sites for better user experience and SEO."
