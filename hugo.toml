@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://gliese3.github.io/LEQS-website/"
+baseURL = "https://eqsl.phys.nd.edu/"
 # Title of your website (required).
 title = "EQSL"
 # Your theme name
