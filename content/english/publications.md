@@ -5,9 +5,11 @@ description: "this is meta description"
 # image: "/images/avatar.png"
 draft: false
 --- 
-### 2023
+### 2024
 
-- X. Zhou, X. Li, Q. Chen, G. Koolstra, G. Yang, B. Dizdar, Y. Huang, C. S. Wang, X. Han, X. Zhang, D. I. Schuster, D. Jin. *Electron charge qubit with 0.1 millisecond coherence time.* | [**Nat. Phys (2023)**](https://www.nature.com/articles/s41567-023-02247-5#:~:text=In%20this%20paper%2C%20we%20report,bonds%20with%20any%20other%20element.)
+- X. Zhou, X. Li, Q. Chen, G. Koolstra, G. Yang, B. Dizdar, Y. Huang, C. S. Wang, X. Han, X. Zhang, D. I. Schuster, D. Jin. *Electron charge qubit with 0.1 millisecond coherence time.* | [**Nat. Phys. 20, 116–122 (2024)**](https://www.nature.com/articles/s41567-023-02247-5)
+
+### 2023
 
 - C. Liu, X. Zhou, D. Hong, B. Fisher, H. Zheng, J. Pearson, J. S. Jiang, D. Jin, M. R. Norman, and A. Bhattacharya. *Tunable superconductivity and its origin at KTaO<sub>3</sub> interfaces.* | [**Nat Commun 14, 951 (2023)**](https://www.nature.com/articles/s41467-023-36309-2)
 
