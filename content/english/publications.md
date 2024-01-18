@@ -11,13 +11,13 @@ draft: false
 
 ### 2023
 
-- C. Liu, X. Zhou, D. Hong, B. Fisher, H. Zheng, J. Pearson, J. S. Jiang, D. Jin, M. R. Norman, and A. Bhattacharya. *Tunable superconductivity and its origin at KTaO<sub>3</sub> interfaces.* | [**Nat Commun 14, 951 (2023)**](https://www.nature.com/articles/s41467-023-36309-2)
+- C. Liu, X. Zhou, D. Hong, B. Fisher, H. Zheng, J. Pearson, J. S. Jiang, D. Jin, M. R. Norman, and A. Bhattacharya. *Tunable superconductivity and its origin at KTaO<sub>3</sub> interfaces.* | [**Nat. Commun. 14, 951 (2023)**](https://www.nature.com/articles/s41467-023-36309-2)
 
 - M. I. Dykman, O. Asban, Q. Chen, D. Jin, S. A. Lyon. *Spin dynamics in quantum dots on liquid helium.* | [**Phys. Rev. B 107, 035437 (2023)**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.035437)
 
 ### 2022
 
-- K. Peng, R. Tao, L. Haeberlé, Q. Li, D. Jin, G.R. Fleming, S. Kéna-Cohen, X. Zhang, and W. Bao. *Room-temperature polariton quantum fluids in halide perovskites.* | [**Nat Commun 13, 7388  (2022)**](https://www.nature.com/articles/s41467-022-34987-y)
+- K. Peng, R. Tao, L. Haeberlé, Q. Li, D. Jin, G.R. Fleming, S. Kéna-Cohen, X. Zhang, and W. Bao. *Room-temperature polariton quantum fluids in halide perovskites.* | [**Nat. Commun. 13, 7388  (2022)**](https://www.nature.com/articles/s41467-022-34987-y)
 
 - Q. Chen, I. Martin, L. Jiang, and D. Jin. *Electron spin coherence on a solid neon surface.* | [**Quantum Sci. Technol. 7, 045016 (2022)**](https://arxiv.org/abs/2205.00589)
 
@@ -54,3 +54,21 @@ draft: false
 - Y. Liu, J. Wang, S. Kim, H. Sun, F. Yang, Z. Fang, N. Tamura, R. Zhang, X. Song, J. Wen, B. Z. Xu, M. Wang, S. Lin, Q. Yu, K. B. Tom, Y. Deng, J. Turner, E. Chan, D. Jin, R. O. Ritchie, A. M. Minor, D. C. Chrzan, M. C. Scott, and J. Yao. *Helical van der Waals crystals with discretized Eshelby twist.* | [**Nature 570, 358−362 (2019)**](https://www.nature.com/articles/s41586-019-1308-y)
 
 - J. Xu, M. K. Ma, M. Sultanov, Z.-L. Xiao, Y.-L. Wang, D. Jin, Y.-Y. Lyu, W. Zhang, L. N. Pfeiffer, K. W. West, K. W. Baldwin, M. Shayegan, and W.-K. Kwok. *Negative Longitudinal Magnetoresistance in GaAs Quantum Wells.* | [**Nat. Commun. 10, 287 (2019)**](https://www.nature.com/articles/s41467-018-08199-2)
+
+- K. Y. Fong, D. Jin, M. Poot, A. Bruch, and H. X. Tang. *Phonon coupling between a nanomechanical resonator and a quantum fluid*. | [**Nano Lett. 19, 3716−3722 (2019)**](https://pubs.acs.org/doi/10.1021/acs.nanolett.9b00821)
+
+- D. Jin, T. Christensen, M. Soljacic, N. X. Fang, L. Lu, and X. Zhang. *Infrared topological plasmon in graphene*. | [**Phys. Rev. Lett. 118, 245301 (2017)**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.245301)
+
+- Q. Hu, D. Jin, J. Xiao, S. H. Nam, X. Liu, Y. Liu, X. Zhang, and N. X. Fang. *Ultrafast fluorescent decay induced by metal-mediated dipole-dipole interaction in two-dimensional molecular aggregates.* | [**PNAS 114, 10017 (2017)**](https://www.pnas.org/doi/10.1073/pnas.1703000114)
+
+- D. Jin, L. Lu, Z. Wang, C. Fang, J. D. Joannopoulos, M. Soljacic, L. Fu, and N. X. Fang. *Topological magnetoplasmon.* | [**Nat. Commun. 7, 13486 (2016)**](https://www.nature.com/articles/ncomms13486)
+
+- D. Jin, Q. Hu, D. Neuhauser, F. von Cube, Y. Yang, R. Sachan, T. S. Luk, D. C. Bell, and N. X. Fang. *Quantum-spillover enhanced plasmonic absorption at the interface of silver and high-index dielectrics.* | [**Phys. Rev. Lett. 115, 193901 (2015)**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.193901)
+
+- D. Jin, A. Kumar, K. H. Fung, J. Xu, N. X. Fang. *Terahertz plasmonics in ferroelectric-gated graphene.* | [**Appl. Phys. Lett. 102, 201118 (2013)**](https://pubs.aip.org/aip/apl/article/102/20/201118/593921/Terahertz-plasmonics-in-ferroelectric-gated)
+
+- D. Jin and W. Guo. *Vortex nucleation induced phonon radiation from a moving electron bubble in superfluid helium-4.* | [**Phys. Rev. B 82, 094524 (2010)**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.094524)
+
+- W. Guo, D. Jin, G. M. Seidel, and H. J. Maris. *Experiments with single electrons in liquid helium.* | [**Phys. Rev. B 79, 054515 (2009)**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.054515)
+
+- D. Jin, Y. Ren, Z.-Z. Li, M.-W. Xiao, G. Jin, and A. Hu. *Spin-filter tunneling magnetoresistance in a magnetic tunnel junction.* | [**Phys. Rev. B 73, 012414 (2006)**](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.012414)
