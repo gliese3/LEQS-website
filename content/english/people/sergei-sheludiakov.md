@@ -1,6 +1,6 @@
 ---
 title: Sergei Sheludiakov
-email: ses276@uchicago.edu
+email: ssheludi@nd.edu
 image: "/images/bj_9.18.23_sergei_sheludiakov_cropped1.jpg"
 description: this is meta description
 position: lab manager
@@ -11,7 +11,7 @@ summary:
   <br>
   <br>"
 contacts:
-  "**Email**&emsp;&emsp;[ses276@uchicago.edu](mailto:ses276@uchicago.edu)<br>
+  "**Email**&emsp;&emsp;[ssheludi@nd.edu](mailto:ssheludi@nd.edu)<br>
    **Office**&emsp;&nbsp;&nbsp;&nbsp;441 Nieuwland Science Hall
   
   <br>"
